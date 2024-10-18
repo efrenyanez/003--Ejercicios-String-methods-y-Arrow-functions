@@ -1,5 +1,3 @@
-//Escribe una función que cuente cuántas veces aparece una letra específica en una cadena.
-//Ejemplo: "javascript", "a" → 2
 function contarLetra() {
     let letra = "a";
     let cadena = "javascript";
